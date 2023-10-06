@@ -1,0 +1,19 @@
+{
+  "name": "moe3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run --browser chrome --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
